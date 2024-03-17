@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&family=IM+Fell+French+Canon+SC&family=Macondo+Swash+Caps&display=swap');
+
+h1 {
+    color: blue;
+    font-family: "Honk";
+    font-size: 100px;
+}
+
+p {
+    text-indent: 40px;
+    font-size: 30px;
+}
+
+img {
+    border-radius: 30px;
+}
